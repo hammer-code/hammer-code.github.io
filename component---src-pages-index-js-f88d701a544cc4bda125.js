@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{201:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=n(2),a=u(l),d=n(18),r=(u(d),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"We are tech community based in Palu, Indonesia"))});t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-index-js-f88d701a544cc4bda125.js.map

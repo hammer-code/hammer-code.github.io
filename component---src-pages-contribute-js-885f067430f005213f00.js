@@ -1,0 +1,2 @@
+webpackJsonp([69062039818352],{199:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),a=l(n),o=u(18),r=l(o),d=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Contribute"),a.default.createElement(r.default,{to:"/"},"Go back to the homepage"))};t.default=d,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-contribute-js-885f067430f005213f00.js.map

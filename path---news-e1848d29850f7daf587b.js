@@ -1,0 +1,2 @@
+webpackJsonp([0xbdf5ef12e5c5],{365:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{title:"AGRC wins Domestic Robotic Cup"},fields:{slug:"news/agrc-win-domestic-robotic-cup/"}}},{node:{frontmatter:{title:"Hacktoberfest 2017 In Palu"},fields:{slug:"news/hacktoberfest-in-palu/"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---news-e1848d29850f7daf587b.js.map
