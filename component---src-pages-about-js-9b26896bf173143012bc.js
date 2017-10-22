@@ -1,0 +1,2 @@
+webpackJsonp([0xefeaa6d1881d],{198:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=a(2),u=l(n),r=a(22),s=function(e){var t=e.t;return u.default.createElement("div",{className:"container"},u.default.createElement("h1",{className:"crisp crisp--400"},t("about")),u.default.createElement("p",null,"We will update this page"))};t.default=(0,r.translate)("translations")(s),e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-js-9b26896bf173143012bc.js.map

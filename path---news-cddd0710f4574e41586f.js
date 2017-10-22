@@ -1,0 +1,2 @@
+webpackJsonp([0xbdf5ef12e5c5],{369:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{title:"Hacktoberfest 2017 In Palu",date:"October 10, 2017"},fields:{slug:"news/hacktoberfest-in-palu/"}}},{node:{frontmatter:{title:"AGRC wins Domestic Robotic Cup",date:"October 08, 2017"},fields:{slug:"news/agrc-win-domestic-robotic-cup/"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---news-cddd0710f4574e41586f.js.map
