@@ -13,8 +13,8 @@
       "component---src-pages-index-js-95cd1758ae0d9f525476.js.map"
     ],
     "path---events": [
-      "path---events-3d53e1512b5e327a83fc.js",
-      "path---events-3d53e1512b5e327a83fc.js.map"
+      "path---events-2e30b24df7e6a332bfad.js",
+      "path---events-2e30b24df7e6a332bfad.js.map"
     ],
     "path---events-2017-11-12-intro-pemanfaatan-dan-implementasi-web-service": [
       "path---events-2017-11-12-intro-pemanfaatan-dan-implementasi-web-service-f7484b92468f12e70dd4.js",
@@ -33,8 +33,8 @@
       "component---src-pages-news-js-8d9bf93d97e730bae9aa.js.map"
     ],
     "component---src-pages-ecosystem-js": [
-      "component---src-pages-ecosystem-js-46d67438db070e2da23d.js",
-      "component---src-pages-ecosystem-js-46d67438db070e2da23d.js.map"
+      "component---src-pages-ecosystem-js-4d9d169a1d2e735b48b3.js",
+      "component---src-pages-ecosystem-js-4d9d169a1d2e735b48b3.js.map"
     ],
     "path---events-2017-10-08-hacktoberfest-2017": [
       "path---events-2017-10-08-hacktoberfest-2017-3f80144f17c84fdffc5c.js",
@@ -45,8 +45,12 @@
       "component---src-layouts-index-js-7615f4390e45103975a4.js.map"
     ],
     "path---index": [
-      "path---index-5941f8ccbba52982eae3.js",
-      "path---index-5941f8ccbba52982eae3.js.map"
+      "path---index-8092f81a7e772fa9e7ab.js",
+      "path---index-8092f81a7e772fa9e7ab.js.map"
+    ],
+    "path---events-2017-12-29-festival-teknologi-tanah-kaili": [
+      "path---events-2017-12-29-festival-teknologi-tanah-kaili-326819991965b3229e32.js",
+      "path---events-2017-12-29-festival-teknologi-tanah-kaili-326819991965b3229e32.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -87,9 +91,9 @@
       "path---news-52a5e8017035bdedaf49.js.map"
     ],
     "app": [
-      "app-2ba6cbc12e3659ff58c9.js",
+      "app-2532c583a75ba9d43cd1.js",
       "build-js-styles.css",
-      "app-2ba6cbc12e3659ff58c9.js.map",
+      "app-2532c583a75ba9d43cd1.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-events-js": [
