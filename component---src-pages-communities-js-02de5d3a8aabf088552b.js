@@ -1,2 +1,0 @@
-webpackJsonp([0xa59fcba4f26e],{198:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),n=a(l),f=u(18),o=a(f),c=function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"Communities"),n.default.createElement(o.default,{to:"/"},"Go back to the homepage"))};t.default=c,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-communities-js-02de5d3a8aabf088552b.js.map

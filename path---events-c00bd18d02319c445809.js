@@ -1,2 +1,0 @@
-webpackJsonp([44713349584700],{362:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{title:"Web Dev Java"},fields:{slug:"events/web-dev-with-java/"}}},{node:{frontmatter:{title:"Hacktoberfest 2017"},fields:{slug:"events/hacktoberfest-2017/"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---events-c00bd18d02319c445809.js.map
